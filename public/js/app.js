@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 //fetch is only for front-end (like this client-side js file -- won't run in node)
 //uses promises instead of callbacks
 //res.json is a method that converts response to json
